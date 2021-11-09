@@ -223,11 +223,19 @@ a{
     }
   }}
 
-  .about_farizdotid{
+  .about{
     font-size: 20px;
     font-weight: 500;
     line-height: 40px;
     width: 60%;
+    color: #fff;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .about_desc{
+    font-size: 14px;
     color: #fff;
     text-align: center;
     margin-left: auto;
